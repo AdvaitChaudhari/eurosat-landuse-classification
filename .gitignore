@@ -1,0 +1,8 @@
+# course data (not committed)
+*.zip
+*.7z
+*.csv
+eurosat_data/
+solar_panel_data/
+*.keras
+.ipynb_checkpoints/
